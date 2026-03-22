@@ -2,11 +2,13 @@
 
 > by 尖叫（Todliu）（仅供学习参考）
 
-基于 **PySide6 + QtWebEngine** 的抖音创作者平台多账号管理桌面工具。
-
+可以同时在软件内登录绑定多个抖音账号矩阵式运营
 每个账号拥有完全独立的浏览器沙盒环境，内置反检测伪装与本地 API 服务，支持 AI Agent 远程调用自动发布。
 
 **跨平台支持：macOS / Windows**
+
+<img width="2880" height="1904" alt="ScreenShot_2026-03-22_162511_932" src="https://github.com/user-attachments/assets/0fb7c8ed-642a-4eb4-bf89-413dc9a31485" />
+
 
 ---
 

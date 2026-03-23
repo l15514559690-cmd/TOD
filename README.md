@@ -1,15 +1,27 @@
+<<<<<<< HEAD
 # 抖音多开矩阵系统(支持openclaw自动发布)
 
 > by 尖叫（Todliu）（仅供学习参考）
 
 可以同时在软件内登录绑定多个抖音账号矩阵式运营
+=======
+# 抖音多开矩阵系统
+
+> by 尖叫（仅供学习参考）
+
+基于 **PySide6 + QtWebEngine** 的抖音创作者平台多账号管理桌面工具。
+
+>>>>>>> 53dce79 (Initial release: 抖音多开矩阵系统)
 每个账号拥有完全独立的浏览器沙盒环境，内置反检测伪装与本地 API 服务，支持 AI Agent 远程调用自动发布。
 
 **跨平台支持：macOS / Windows**
 
+<<<<<<< HEAD
 <img width="2880" height="1904" alt="ScreenShot_2026-03-22_162511_932" src="https://github.com/user-attachments/assets/0fb7c8ed-642a-4eb4-bf89-413dc9a31485" />
 
 
+=======
+>>>>>>> 53dce79 (Initial release: 抖音多开矩阵系统)
 ---
 
 ## 功能亮点
@@ -131,7 +143,11 @@ UA 清洗示例：
 
 ## API 文档
 
+<<<<<<< HEAD
 应用内置本地 Flask HTTP 服务（`127.0.0.1:5001`），供 AI Agent 或自动化脚本调用（支持openclaw）。
+=======
+应用内置本地 Flask HTTP 服务（`127.0.0.1:5001`），供 AI Agent 或自动化脚本调用。
+>>>>>>> 53dce79 (Initial release: 抖音多开矩阵系统)
 
 **启用**：点击左侧边栏的 API 服务开关。
 
